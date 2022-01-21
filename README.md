@@ -8,3 +8,7 @@ Paragraf 3
 
 ~~lol~~ *wow* **wow** 
 >ok xd
+1.masło orzechowe
+2.masło zwykłe 
+3.nutella
+  1.ale ta z biedronki
