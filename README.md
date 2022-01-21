@@ -24,3 +24,5 @@ Paragraf 3
 `320`   
 
 I'm a scatman `papope` oooo
+
+ ![Tux, the Linux mascot](/Desktop/tux.png)
