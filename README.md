@@ -19,6 +19,8 @@ Paragraf 3
 + oooooook
     - nie ok
 
-`ooooo`. 
-`elo elo`. 
-`320`. 
+`ooooo`
+
+`elo elo`
+
+`320` 
