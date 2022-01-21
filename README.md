@@ -7,7 +7,8 @@ I think i'll use it to format all of my documents from now on.
 Paragraf 3
 
 ~~lol~~ *wow* **wow** 
->ok xd
+>ok
+
 1.masło orzechowe
 2.masło zwykłe 
 3.nutella
