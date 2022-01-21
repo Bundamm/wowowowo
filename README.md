@@ -25,4 +25,4 @@ Paragraf 3
 
 I'm a scatman `papope` oooo
 
- ![Tux, the Linux mascot](/Desktop/tux.png)
+ ![Tux, the Linux mascot](tux.png)
